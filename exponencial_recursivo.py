@@ -1,4 +1,4 @@
-# Implementação de fatorial recursivo
+# Implementação de exponencial recursivo
 
 # Definição da função exponencial:
 def exp_recursivo(base, expoente):
